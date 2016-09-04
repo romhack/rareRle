@@ -1,0 +1,8 @@
+*.gba
+*.exe
+*.o
+*log.*
+*.swp
+*.swn
+*.swo
+*.idb
